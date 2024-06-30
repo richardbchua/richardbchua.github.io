@@ -10,8 +10,8 @@ first_name: Richard Bryann
 last_name: Chua
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,6 +24,10 @@ role: Asssistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Security and Cryptography Group
+  - name: Mathematical and Computing Sciences Unit
+  - name: Department of Physical Sciences and Mathematics
+  - name: College of Arts and Sciences
   - name: University of the Philippines Manila
     url: https://www.upm.edu.ph/
 
